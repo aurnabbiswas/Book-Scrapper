@@ -5,7 +5,7 @@ https://books.toscrape.com/
 
 ## Overview
 This project scrapes book information from the demo e-commerce website **Books to Scrape**.  
-The script automatically paginates through all pages until **1,000 book records** are collected and exports the cleaned data into a CSV file.
+The script automatically paginates through all pages until **500+ book records** are collected and exports the cleaned data into a CSV file.
 
 ---
 
