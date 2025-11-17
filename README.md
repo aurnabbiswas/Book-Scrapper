@@ -67,8 +67,6 @@ Open the project folder in VS Code.
 python -m venv venv
 # Windows
 venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
 ```
 ### **3. Install Dependencies
 ```bash
@@ -85,5 +83,6 @@ output/books.csv
 3. python version 3.9+ (recommended)
 
 ## Author
-Name: Aurnab Biswas
-Email: biswasarno75@gmail.com
+**Name:** Aurnab Biswas
+
+**Email:** biswasarno75@gmail.com
